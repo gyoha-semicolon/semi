@@ -3946,7 +3946,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .ft-hover-item .ft-1, .ft-hover-item .ft-2 {
-  background: #ccc url(http://placehold.it/900x580);
+  background: #ccc url(/assets/images/semicolonreal1.jpg);
   background-size: 100%;
   background-position: 50%;
   -webkit-transition: background-size 0.3s;
@@ -3966,7 +3966,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .ft-hover-item .ft-2 {
-  background: #ccc url(http://placehold.it/900x580/999/eee);
+  background: #ccc url(/assets/images/semicolonreal2.jpg);
   background-size: 100%;
   background-position: 50%;
 }
@@ -4371,7 +4371,7 @@ fieldset[disabled] .form-control:hover {
 -------------------------------------------------- */
 /* ---- 12.1 Testimonial - 1 Column Slider ---- */
 .testimonials-parallax, .testimonials-dark {
-  background: url(http://placehold.it/2440x1578);
+  background: url(/assets/images/testback.jpg);
   background-size: cover;
   background-position: 50%;
   background-attachment: fixed;
